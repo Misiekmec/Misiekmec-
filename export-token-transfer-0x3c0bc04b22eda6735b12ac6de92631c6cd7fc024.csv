@@ -1,0 +1,2 @@
+﻿Transaction Hash,Status,Method,BlockNo,DateTime (UTC+2),From,From_Nametag,To,To_Nametag,Value,Token
+"0x6a8075bdd1bae5cc5365c78c63b5820f356132420def37e51dbd4ffd57157b6f","Success","Transfer","38250294","2024-04-28 10:30:53","0x3c783c21a0383057D128bae431894a5C19F9Cf06","Binance: Hot Wallet 8","0x3c0bC04B22edA6735b12AC6De92631c6cd7FC024","Shib","338,051.99","Binance-Peg SHIBA INU Token (SHIB)"
